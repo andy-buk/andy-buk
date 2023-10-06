@@ -94,9 +94,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![Snake animation](https://github.com/andy-buk/andy-buk/blob/output/github-contribution-grid-snake.svg)
-
-###
